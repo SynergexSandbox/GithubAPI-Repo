@@ -1,0 +1,6 @@
+[submodule "33"]
+	path = submodules/33
+	url = https://github.com/SynergexSandbox/33
+[submodule "34"]
+	path = submodules/34
+	url = https://github.com/SynergexSandbox/34
